@@ -15,7 +15,7 @@ In this project, we build a text editor that runs in the browser and implementes
 
 # Run and Usage
 As a user, feel free to interact in creating and deleting notes about any topic, as wells when you click on the install button, you can download the web application as an icon on your desktop.
-Link  of  deployed app: [Open Text-Editor](https://techblogwau.herokuapp.com/).
+Link  of  deployed app: [Open Text-Editor](https://fast-sea-04742.herokuapp.com/).
 
 ## Technologies
 - ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)

@@ -1,6 +1,6 @@
 /* app shell CSS */
 :root {
-  --primary: #31a9e1;
+  --primary: #4C3575;
   --gray: #ececec;
   --whitesmoke: #f5f5f5;
   --dark: #222;
@@ -17,7 +17,8 @@ body {
 }
 
 h1 {
-  font-size: 22px;
+  font-size: 32px;
+  font-style: italic
 }
 
 #navbar {
@@ -31,6 +32,7 @@ h1 {
   font-size: 22px;
   font-weight: 550;
   letter-spacing: 0.9px;
+  padding: 15px;
 }
 
 .navbar-brand img {
@@ -105,7 +107,7 @@ h1 {
 }
 
 .btn.btn-sm {
-  font-size: 0.85rem;
+  font-size: 1.2rem;
   padding: 0.3rem 0.9rem;
 }
 
@@ -175,7 +177,7 @@ h1 {
 }
 
 .btn.btn-black {
-  background-color: #000000;
+  background-color: #272822;
   color: #ffffff;
 }
 
